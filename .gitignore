@@ -1,1 +1,1 @@
-/target/
+-e "test-output/\ntarget/\n*.class" 
